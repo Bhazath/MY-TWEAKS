@@ -19,6 +19,7 @@ gnome-look.org  ## themes
 - create a "ventoy.json" file inside ventoy folder
   
 ```
+### https://www.ventoy.net/en/plugin_entry.html
 {
     "theme":{
         "file": "ventoy/theme/"Folder PATH"/theme.txt"
