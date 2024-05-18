@@ -29,7 +29,7 @@ gnome-look.org  ## themes
 - or
   
  ```
-  {
+{
     "control": [
         { "VTOY_DEFAULT_MENU_MODE": "1" },
         { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" }
