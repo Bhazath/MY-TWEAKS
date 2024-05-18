@@ -21,9 +21,9 @@ gnome-look.org  ## themes
 ```
 ### https://www.ventoy.net/en/plugin_entry.html
 {
-    "theme":{
-        "file": "ventoy/theme/"Folder PATH"/theme.txt"
-    }
+    "theme": {
+       "file": "/ventoy/theme/Lenovo-Ubuntu/theme.txt"
+   }
 }
 ```
 - or
