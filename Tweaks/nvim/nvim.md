@@ -1,4 +1,12 @@
-#NVIM
+# NVIM
+- to downlaod nvim
+
+```
+apt install nvim
+```
+
+- Create .config/nvim/init.vim
+ 
 ```
 set number
 set hlsearch
