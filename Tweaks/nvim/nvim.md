@@ -1,3 +1,5 @@
+#NVIM
+```
 set number
 set hlsearch
 set mouse=a
@@ -20,4 +22,4 @@ set showmatch
 if !has('gui_running')
     set t_Co=256
 endif
-
+```
