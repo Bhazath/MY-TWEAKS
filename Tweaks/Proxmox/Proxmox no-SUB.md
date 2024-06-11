@@ -25,3 +25,7 @@ make this line    ##  void({
 ```
 systemctl restart pveprox.service
 ```
+for more info
+```
+https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem
+```
