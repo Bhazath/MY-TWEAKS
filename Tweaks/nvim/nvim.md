@@ -6,6 +6,7 @@ apt install nvim
 ```
 
 - Create .config/nvim/init.vim
+- Create ~/.vimrc
  
 ```
 set number
